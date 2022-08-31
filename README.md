@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bushra Fatima
-- 👀 I’m interested in 
+- 👀 I’m interested in knowing about seniors who will help me and keep me in their projects so they can be my mentor 
 - 🌱 I’m currently learning Computer science 
 - 💞️ I’m looking to collaborate on CS related junior projects.
 - 📫 Reach me on bushrafatyma@outlook.com
